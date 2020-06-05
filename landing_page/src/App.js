@@ -15,7 +15,7 @@ function App() {
             <div className="App-title">
               <h1>Hello There!</h1>
               <p>Wellcome to the Dark Side</p>
-              <p>Visitor #{Math.floor(Math.random() * 10000)}</p>
+              <p>Visitor #{Math.floor(Math.random() * 100000)}</p>
             </div>
             <div className="App-image">
               <figure>
